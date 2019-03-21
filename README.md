@@ -3,8 +3,11 @@
 写在前面：中文邮件用Jieba分词，如果在spamFiltering里调用不了spamEmailBayes，是因为没有将两个py放在一个路径下。
 
 结果显示：
+
 ![Image text](https://github.com/cksywang/spam/blob/master/bayesspam%E7%BB%93%E6%9E%9C.png)
+
 ![Image text](https://github.com/cksywang/spam/blob/master/bayesspam%E7%BB%93%E6%9E%9C2.png)
+
 ![Image text](https://github.com/cksywang/spam/blob/master/bayesspam%E7%BB%93%E6%9E%9C3.png)
 
 1.训练过程
